@@ -1,0 +1,11 @@
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.csprojAssemblyReference.cache
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.csproj.CoreCompileInputs.cache
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\bin\Debug\Amazing-Bash.exe.config
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\bin\Debug\Amazing-Bash.exe
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\bin\Debug\Amazing-Bash.pdb
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.exe
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.pdb
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\bin\Debug\Amazing-Bash.exe.manifest
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\bin\Debug\Amazing-Bash.application
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.exe.manifest
+C:\Users\alp\source\repos\Amazing-Bash\Amazing-Bash\obj\Debug\Amazing-Bash.application
